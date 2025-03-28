@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    text-align: start;
+}
+
+TABLE{
+    width: 1500px;
+    text-align: center;
+}
+table, th, td{
+    border: 1px solid black;
+}
+HTML{
+    background-color: rgba(2, 255, 225, 0.255);
+}
